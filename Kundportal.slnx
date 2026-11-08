@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Kundportal.Core/Kundportal.Core.csproj" />
+    <Project Path="src/Kundportal.Infrastructure/Kundportal.Infrastructure.csproj" />
+    <Project Path="src/Kundportal.Web/Kundportal.Web.csproj" />
+  </Folder>
+</Solution>
